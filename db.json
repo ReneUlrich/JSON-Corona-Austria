@@ -1,7 +1,22 @@
 [
- {   "positive_cases_each_day": "17,034" },
- {   "positive_cases_each_day": "17,005" },
- {   "positive_cases_each_day": "16,979" },
- {   "positive_cases_each_day": "16,968" },
- {   "positive_cases_each_day": "16,902" }
+  {
+        "year": 2020,
+        "positive_cases_each_day": 17034
+  },
+  {
+    "year": 2020,
+    "positive_cases_each_day": 17005
+  },
+  {
+    "year": 2020,
+    "positive_cases_each_day": 16979
+  },
+  {
+    "year": 2020,
+    "positive_cases_each_day": 16968
+  },
+  {
+    "year": 2020,
+    "positive_cases_each_day": 16902
+  }
 ]
