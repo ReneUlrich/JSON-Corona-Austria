@@ -1,24 +1,24 @@
 {
-    "cases": [
+    "totalcases": [
   {
-        "year": 2020,
-        "positive_cases_each_day": 17034
+        "x": 2020,
+        "y": 17034
   },
   {
-    "year": 2020,
-    "positive_cases_each_day": 17005
+    "x": 2020,
+    "y": 17005
   },
   {
-    "year": 2020,
-    "positive_cases_each_day": 16979
+    "x": 2020,
+    "y": 16979
   },
   {
-    "year": 2020,
-    "positive_cases_each_day": 16968
+    "x": 2020,
+    "y": 16968
   },
   {
-    "year": 2020,
-    "positive_cases_each_day": 16902
+    "x": 2020,
+    "y": 16902
   }
 ]
 }
