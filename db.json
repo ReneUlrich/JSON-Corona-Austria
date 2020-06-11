@@ -1,4 +1,5 @@
-[
+{
+    "cases": [
   {
         "year": 2020,
         "positive_cases_each_day": 17034
@@ -20,3 +21,4 @@
     "positive_cases_each_day": 16902
   }
 ]
+}
